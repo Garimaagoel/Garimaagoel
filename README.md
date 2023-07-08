@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garimaagoel
-- 👀 I’m interested in DSA , coding and Machine Learning 
+- 👀 I’m interested in DSA and Machine Learning 
 - 🌱 I’m currently learning CSE with specialization in Software Engineering 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me gg1187@srmist.edu.in
